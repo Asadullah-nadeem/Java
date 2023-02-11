@@ -1,3 +1,5 @@
+package lecture;
+
 import java.util.Arrays;
 
 public class MinimizetheHeights {

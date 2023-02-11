@@ -1,3 +1,5 @@
+package lecture;
+
 public class MultipleObjectsoops {
         int x = 5;
         int y = 7;

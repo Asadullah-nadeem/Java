@@ -1,3 +1,5 @@
+package lecture;
+
 public class weekday {
     public static void main(String[] args) {
         int day = 67;

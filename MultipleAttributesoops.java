@@ -1,3 +1,5 @@
+package lecture;
+
 public class MultipleAttributesoops {
     String fname = "John";
     String lname = "Doe";

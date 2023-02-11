@@ -1,3 +1,5 @@
+package lecture;
+
 public class plusMethod {
     static int plusMethod(int x, int y) {
         return x + y;

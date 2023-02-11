@@ -1,3 +1,5 @@
+package lecture;
+
 public class nested_ifelse {
     public static void main(String[] args)
     {

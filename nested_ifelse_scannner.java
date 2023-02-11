@@ -1,3 +1,5 @@
+package lecture;
+
 import java.util.Scanner;
 
  class nested_ifelse_scannner {
