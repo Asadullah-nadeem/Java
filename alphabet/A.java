@@ -1,4 +1,4 @@
-package alphabet;
+package lecture.alphabet;
 
 public class A {
     public static void main(String[] args) {

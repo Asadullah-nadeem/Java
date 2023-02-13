@@ -1,4 +1,4 @@
-package API;
+package lecture.API;
 
 class Animal {
     public void animalSound() {

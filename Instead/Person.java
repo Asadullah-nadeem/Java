@@ -1,4 +1,4 @@
-package Instead;
+package lecture.Instead;
 
 public class Person {
     private String name;

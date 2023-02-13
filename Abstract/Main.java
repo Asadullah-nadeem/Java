@@ -1,4 +1,4 @@
-package Abstract;
+package lecture.Abstract;
 
 abstract class Main {
     public String fname = "John";

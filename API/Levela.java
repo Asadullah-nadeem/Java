@@ -1,4 +1,4 @@
-package API;
+package lecture.API;
 
 enum Levela {
     LOW,

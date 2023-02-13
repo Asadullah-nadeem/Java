@@ -1,8 +1,8 @@
-package Instead;
+package lecture.Instead;
 
 public class Main {
     public static void main(String[] args) {
-        Instead.Person myObj = new Instead.Person();
+        Person myObj = new Person();
         myObj.setName("John");
         System.out.println(myObj.getName());
     }
