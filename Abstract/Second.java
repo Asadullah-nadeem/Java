@@ -1,4 +1,6 @@
-package Abstract;
+package lecture.Abstract;
+
+import lecture.Abstract.Student;
 
 class Second {
     public static void main(String[] args) {
