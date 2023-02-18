@@ -1,4 +1,4 @@
-package JavaFileHandling;
+package lecture;
 
 import java.io.File;
 
