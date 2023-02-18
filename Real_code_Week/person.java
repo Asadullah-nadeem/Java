@@ -1,4 +1,4 @@
-package lecture;
+package lecture.Real_code_Week;
 
 public class person {
     private final String name;
