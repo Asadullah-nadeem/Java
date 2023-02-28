@@ -1,3 +1,5 @@
+package lecture;
+
 public class checkAge {
     static void checkAge(int age) {
 
