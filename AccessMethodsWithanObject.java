@@ -1,3 +1,5 @@
+package lecture;
+
 public class AccessMethodsWithanObject {
     public void fullThrottle() {
         System.out.println("The car is going as fast as it can!");
